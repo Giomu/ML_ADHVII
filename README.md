@@ -1,5 +1,7 @@
 # Machine Learning Approaches to Dissect Hybrid and Vaccine-Induced Immunity
 
+[![DOI](https://zenodo.org/badge/989013565.svg)](https://doi.org/10.5281/zenodo.15496792)
+
 This repository contains the code associated with the paper titled "***Machine Learning Approaches to Dissect Hybrid and Vaccine-Induced Immunity***" authored by *G. Montesi, S. Costagli et al*.
 
 ## Overview

@@ -1,7 +1,5 @@
 # Machine Learning Approaches to Dissect Hybrid and Vaccine-Induced Immunity
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15222272.svg)](https://doi.org/10.5281/zenodo.15222272)
-
 This repository contains the code associated with the paper titled "***Machine Learning Approaches to Dissect Hybrid and Vaccine-Induced Immunity***" authored by *G. Montesi, S. Costagli et al*.
 
 ## Overview
@@ -43,7 +41,7 @@ This repository provides the full implementation of the analysis presented in th
 
 -   `LICENSE`: The MIT License under which this project is released.
 
--   `ML_UI_detection.Rproj`: R project file to facilitate environment setup and execution.
+-   `ML_ADHVII.Rproj`: R project file to facilitate environment setup and execution.
 
 ## Getting Started
 
@@ -62,14 +60,14 @@ To reproduce the analyses presented in the manuscript and run the pipeline local
     You can clone this repository using Git from the command line:
 
     ```{bash}
-    git clone https://github.com/Giomu/ML_UI_detection.git
+    git clone https://github.com/Giomu/ML_ADHVII.git
     ```
 
     Alternatively, you can download the ZIP archive directly from GitHub and extract it.
 
 4.  **Open the Project in RStudio**
 
-    Open the `ML_UI_detection.Rproj` file in RStudio. This will automatically load the project environment and working directory.
+    Open the `ML_ADHVII.Rproj` file in RStudio. This will automatically load the project environment and working directory.
 
 5.  **Install Required Packages**
 
